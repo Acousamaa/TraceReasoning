@@ -1,0 +1,581 @@
+﻿software name,group name
+3PARA RAT,Putter Panda
+4H RAT,Putter Panda
+AADInternals,"APT29,Storm-0501"
+ABK,BRONZE BUTLER
+ADVSTORESHELL,APT28
+ASPXSpy,"APT39,APT41,Agrius,HAFNIUM,Threat Group-3390"
+AcidPour,Sandworm Team
+AcidRain,Sandworm Team
+Action RAT,SideCopy
+AdFind,"APT29,Akira,BlackByte,FIN6,FIN7,INC Ransom,Lotus Blossom,Mustang Panda,Play,TA505,Wizard Spider,menuPass"
+Agent Tesla,"SilverTerrier,TA2541"
+Akira,Akira
+Akira _v2,Akira
+Amadey,"Kimsuky,TA505"
+Anchor,Wizard Spider
+Apostle,Agrius
+AppleJeus,Lazarus Group
+AppleSeed,Kimsuky
+Aria-body,Naikon
+Arp,"APT32,BlackByte,Orangeworm,Turla"
+AsyncRAT,TA2541
+AuTo Stealer,SideCopy
+AuditCred,Lazarus Group
+AutoIt backdoor,"APT33,Patchwork"
+Avenger,BRONZE BUTLER
+Azorult,TA505
+BACKSPACE,APT30
+BADCALL,Lazarus Group
+BADFLICK,Leviathan
+BADHATCH,FIN8
+BADNEWS,Patchwork
+BBK,BRONZE BUTLER
+BFG Agonizer,Agrius
+BISCUIT,APT1
+BITSAdmin,"APT41,Daggerfly,Ferocious Kitten,HEXANE,Leviathan,Storm-1811,Tropic Trooper,Wizard Spider"
+BLACKCOFFEE,"APT17,APT41,Leviathan"
+BLINDINGCAN,Lazarus Group
+BLUELIGHT,APT37
+BONDUPDATER,OilRig
+BOOKWORM,Mustang Panda
+BOOSTWRITE,FIN7
+BUBBLEWRAP,admin@338
+BabyShark,Kimsuky
+BackConfig,Patchwork
+Backdoor.Oldrea,Dragonfly
+Bad Rabbit,Sandworm Team
+Bandook,Dark Caracal
+Bankshot,Lazarus Group
+Bazar,"EXOTIC LILY,Wizard Spider"
+BeaverTail,Contagious Interview
+Bisonal,Tonto Team
+BitPaymer,Indrik Spider
+Black Basta,Storm-1811
+BlackByte 2.0 Ransomware,BlackByte
+BlackByte Ransomware,BlackByte
+BlackCat,Scattered Spider
+BlackEnergy,Sandworm Team
+BlackMould,GALLIUM
+BloodHound,"APT29,Chimera,Ember Bear,Play,TA505,Wizard Spider"
+BoomBox,APT29
+BoxCaon,IndigoZebra
+Brave Prince,Kimsuky
+Briba,Elderwood
+Bumblebee,"EXOTIC LILY,TA578"
+CALENDAR,APT1
+CANONSTAGER,Mustang Panda
+CASTLETAP,UNC3886
+CHOPSTICK,APT28
+CLAIMLOADER,Mustang Panda
+CORALDECK,APT37
+CORESHELL,APT28
+CSPY Downloader,Kimsuky
+Cachedump,APT1
+Cadelspy,APT39
+CallMe,Scarlet Mimic
+Cannon,APT28
+Carbanak,"Carbanak,FIN7"
+Carbon,Turla
+Catchamas,Thrip
+Caterpillar WebShell,Volatile Cedar
+ChChes,menuPass
+CharmPower,Magic Hound
+Cheerscrypt,Cinnamon Tempest
+China Chopper,"APT41,BackdoorDiplomacy,Fox Kitten,GALLIUM,HAFNIUM,Leviathan,Mustang Panda,Threat Group-3390,ToddyCat"
+Clambling,Threat Group-3390
+Clop,TA505
+CloudDuke,APT29
+Cobalt Strike,"APT19,APT29,APT32,APT37,APT41,Aquatic Panda,BlackByte,Chimera,Cinnamon Tempest,Cobalt Group,CopyKittens,DarkHydrus,Earth Lusca,FIN6,FIN7,Indrik Spider,Leviathan,LuminousMoth,Mustang Panda,Mustard Tempest,Play,Sandworm Team,Storm-0501,Storm-1811,TA505,Threat Group-3390,ToddyCat,Wizard Spider,menuPass"
+ComRAT,Turla
+ConnectWise,"GOLD SOUTHFIELD,MuddyWater,Scattered Spider"
+Conti,Wizard Spider
+CorKLOG,Mustang Panda
+CosmicDuke,APT29
+Covenant,HAFNIUM
+CozyCar,APT29
+CrackMapExec,"APT39,Dragonfly,Ember Bear,FIN7,MuddyWater"
+CreepyDrive,POLONIUM
+CreepySnail,POLONIUM
+Crimson,Transparent Tribe
+CrossRAT,Dark Caracal
+Crutch,Turla
+Cryptoistic,Lazarus Group
+Cyclops Blink,Sandworm Team
+DCSrv,Moses Staff
+DDKONG,Rancor
+DEADWOOD,"APT33,Agrius"
+DOGCALL,APT37
+DUSTPAN,APT41
+DUSTTRAP,APT41
+Dacls,Lazarus Group
+DanBot,HEXANE
+DarkComet,"APT38,SilverTerrier,Transparent Tribe"
+Daserf,BRONZE BUTLER
+DealersChoice,APT28
+Denis,APT32
+Derusbi,"APT41,Axiom,Deep Panda,Leviathan"
+Diavol,Wizard Spider
+Dipsind,PLATINUM
+Disco,MoustachedBouncer
+DnsSystem,HEXANE
+Donut,Indrik Spider
+DownPaper,Magic Hound
+Downdelph,APT28
+Dridex,"Indrik Spider,TA505"
+DropBook,Molerats
+Drovorub,APT28
+Dtrack,Lazarus Group
+DustySky,Molerats
+Dyre,Wizard Spider
+ECCENTRICBANDWAGON,"APT38,Lazarus Group"
+ELMER,APT16
+EVILNUM,Evilnum
+Ebury,Windigo
+Ecipekac,menuPass
+Elise,Lotus Blossom
+Embargo,Storm-0501
+Emissary,Lotus Blossom
+Emotet,Wizard Spider
+Empire,"APT19,APT33,APT41,CopyKittens,FIN10,FIN13,HEXANE,Indrik Spider,LazyScripter,Leviathan,MuddyWater,Play,Sandworm Team,Silence,Turla,WIRTE,Wizard Spider"
+EnvyScout,APT29
+Epic,Turla
+EvilGrab,menuPass
+Exaramel for Linux,Sandworm Team
+Exaramel for Windows,Sandworm Team
+Exbyte,BlackByte
+Explosive,Volatile Cedar
+FALLCHILL,Lazarus Group
+FLASHFLOOD,APT30
+FLIPSIDE,FIN5
+FRP,"Blue Mockingbird,Magic Hound,Volt Typhoon"
+FYAnti,menuPass
+FakeM,Scarlet Mimic
+FatDuke,APT29
+Felismus,Sowbug
+Ferocious,WIRTE
+FinFisher,Dark Caracal
+Final1stspy,APT37
+Flagpro,BlackTech
+FlawedAmmyy,"FIN6,TA505"
+FlawedGrace,TA505
+FoggyWeb,APT29
+Forfiles,APT28
+FrameworkPOS,FIN6
+Fysbis,APT28
+GLOOXMAIL,APT1
+GRIFFON,FIN7
+Gazer,Turla
+GeminiDuke,APT29
+Get2,TA505
+GoBear,Kimsuky
+Gold Dragon,Kimsuky
+GoldFinder,APT29
+GoldMax,APT29
+Gomir,Kimsuky
+Goopy,APT32
+GreyEnergy,Sandworm Team
+GrimAgent,"FIN6,Wizard Spider"
+HALFBAKED,FIN7
+HAMMERTOSS,APT29
+HAPPYWORK,APT37
+HARDRAIN,Lazarus Group
+HDoor,Naikon
+HIDEDRV,APT28
+HIUPAN,Mustang Panda
+HOMEFRY,Leviathan
+HOPLIGHT,"APT38,Lazarus Group"
+HTRAN,"APT12,GALLIUM"
+HTTPBrowser,"APT18,Threat Group-3390"
+HUI Loader,"Cinnamon Tempest,menuPass"
+Hannotog,Lotus Blossom
+Havij,Ajax Security Team
+Helminth,OilRig
+HexEval Loader,Contagious Interview
+Heyoka Backdoor,Aoqin Dragon
+Hikit,Axiom
+Hildegard,TeamTNT
+HotCroissant,Lazarus Group
+Hydraq,"Axiom,Elderwood"
+HyperBro,Threat Group-3390
+HyperStack,Turla
+IMAPLoader,CURIUM
+INC Ransomware,INC Ransom
+IPsec Helper,Agrius
+ISMInjector,OilRig
+IcedID,"TA551,TA578"
+Imminent Monitor,"APT-C-36,TA2541"
+Impacket,"APT29,APT41,Cinnamon Tempest,Dragonfly,Ember Bear,FIN13,FIN8,HAFNIUM,Lotus Blossom,Magic Hound,Mustang Panda,Sandworm Team,Storm-0501,Storm-1811,Threat Group-3390,Velvet Ant,Volt Typhoon,menuPass"
+Industroyer,Sandworm Team
+Industroyer2,Sandworm Team
+InvisibleFerret,Contagious Interview
+Invoke-PSImage,Sandworm Team
+IronNetInjector,Turla
+Ixeshe,APT12
+JHUHUGIT,APT28
+JPIN,PLATINUM
+JSS Loader,FIN7
+JumbledPath,Salt Typhoon
+KARAE,APT37
+KEYMARBLE,Lazarus Group
+KEYPLUG,APT41
+KGH_SPY,Kimsuky
+KOCTOPUS,LazyScripter
+KOMPROGO,APT32
+KOPILUWAK,Turla
+Kapeka,Sandworm Team
+Kazuar,Turla
+Kerrdown,APT32
+Kevin,HEXANE
+KeyBoy,Tropic Trooper
+KillDisk,"APT38,Sandworm Team"
+Kivars,BlackTech
+Koadic,"APT28,LazyScripter,MuddyWater,Sidewinder"
+Komplex,APT28
+Kwampirs,Orangeworm
+LOWBALL,admin@338
+LaZagne,"APT3,APT33,Akira,Evilnum,Inception,Leafminer,MuddyWater,OilRig,Scattered Spider,TeamTNT,Tonto Team,Wizard Spider"
+Latrodectus,"TA577,TA578"
+LightNeuron,Turla
+LightSpy,APT41
+Linfo,Elderwood
+LiteDuke,APT29
+LitePower,WIRTE
+Lizar,FIN7
+LoFiSe,ToddyCat
+LoJax,APT28
+LockerGoga,FIN6
+Lokibot,SilverTerrier
+Lslsass,APT1
+LunarLoader,Turla
+LunarMail,Turla
+LunarWeb,Turla
+Lurid,PittyTiger
+MCMD,Dragonfly
+MEDUSA,UNC3886
+MESSAGETAP,APT41
+MOPSLED,"APT41,UNC3886"
+MURKYTOP,Leviathan
+MacMa,Daggerfly
+Machete,Machete
+Mafalda,Metador
+MagicRAT,Lazarus Group
+MailSniper,Leafminer
+Mango,OilRig
+MarkiRAT,Ferocious Kitten
+Matryoshka,CopyKittens
+Maze,"FIN6,FIN7"
+MechaFlounder,APT39
+Medusa Ransomware,Medusa Group
+Megazord,Akira
+MgBot,Daggerfly
+Micropsia,APT-C-23
+Milan,HEXANE
+MimiPenguin,TeamTNT
+Mimikatz,"APT1,APT28,APT29,APT32,APT33,APT38,APT39,APT41,APT5,Agrius,Akira,BRONZE BUTLER,BackdoorDiplomacy,BlackByte,Blue Mockingbird,Carbanak,Chimera,Cleaver,Cobalt Group,DarkHydrus,Dragonfly,Earth Lusca,FIN13,FIN6,FIN7,GALLIUM,HEXANE,Indrik Spider,Ke3chang,Kimsuky,LAPSUS$,Leafminer,Magic Hound,Medusa Group,MuddyWater,Mustang Panda,OilRig,PittyTiger,Play,Sandworm Team,Scattered Spider,TA505,TEMP.Veles,Threat Group-3390,Thrip,Tonto Team,Turla,Volt Typhoon,Whitefly,Wizard Spider,menuPass"
+MiniDuke,APT29
+MirageFox,Ke3chang
+Mispadu,Malteiro
+Mivast,Deep Panda
+MobileOrder,Scarlet Mimic
+MoleNet,Molerats
+Moneybird,Agrius
+Mongall,Aoqin Dragon
+More_eggs,"Cobalt Group,Evilnum,FIN6"
+Mori,MuddyWater
+Mosquito,Turla
+MultiLayer Wiper,Agrius
+NBTscan,"APT39,Agrius,BackdoorDiplomacy,Earth Lusca,GALLIUM,Lotus Blossom,Mustang Panda,Threat Group-3390,Tonto Team,Turla"
+NDiskMonitor,Patchwork
+NETEAGLE,APT30
+NETWIRE,"APT33,SilverTerrier,TA2541,The White Company"
+NICECURL,APT42
+NOKKI,Kimsuky
+Naid,Elderwood
+NanHaiShu,Leviathan
+NanoCore,"APT33,Gorgon Group,Group5,SilverTerrier"
+NativeZone,APT29
+NavRAT,APT37
+Nebulae,Naikon
+Neo-reGeorg,Sandworm Team
+Neoichor,Ke3chang
+Nerex,Elderwood
+Net,"APT1,APT28,APT29,APT32,APT33,APT38,APT41,APT5,BRONZE BUTLER,Chimera,Deep Panda,Dragonfly,FIN8,GALLIUM,INC Ransom,Ke3chang,Leviathan,Magic Hound,Naikon,OilRig,Orangeworm,Sandworm Team,Storm-0501,TA505,Threat Group-1314,Threat Group-3390,ToddyCat,Turla,Volt Typhoon,Wizard Spider,admin@338,menuPass"
+Net Crawler,Cleaver
+NetTraveler,TA459
+Nidiran,Suckfly
+NightClub,MoustachedBouncer
+Nightdoor,Daggerfly
+Ninja,ToddyCat
+Nltest,"Earth Lusca,FIN8,INC Ransom,Play,Storm-0501,Volt Typhoon,Wizard Spider"
+NotPetya,Sandworm Team
+ODAgent,OilRig
+OLDBAIT,APT28
+OSInfo,APT3
+OSX_OCEANLOTUS.D,APT32
+ObliqueRAT,Transparent Tribe
+Octopus,Nomadic Octopus
+OilBooster,OilRig
+OilCheck,OilRig
+Okrum,Ke3chang
+Olympic Destroyer,Sandworm Team
+OnionDuke,APT29
+OopsIE,OilRig
+Orz,Leviathan
+Out1,MuddyWater
+OutSteel,Saint Bear
+P.A.S. Webshell,"Ember Bear,Sandworm Team"
+P8RAT,menuPass
+PACEMAKER,APT5
+PAKLOG,Mustang Panda
+PHOREAL,APT32
+PLAINTEE,Rancor
+PLEAD,BlackTech
+POORAIM,APT37
+POSHSPY,APT29
+POWERSOURCE,FIN7
+POWERSTATS,MuddyWater
+POWERTON,APT33
+POWRUNER,OilRig
+PUBLOAD,Mustang Panda
+PULSECHECK,APT5
+PUNCHBUGGY,FIN8
+PUNCHTRACK,FIN8
+Pandora,"Cinnamon Tempest,Threat Group-3390"
+Pasam,Elderwood
+Pass-The-Hash Toolkit,APT1
+Pay2Key,Fox Kitten
+PcShare,APT5
+Pcexter,ToddyCat
+Peirates,TeamTNT
+Penquin,Turla
+Peppy,Transparent Tribe
+Pikabot,TA577
+Pillowmint,FIN7
+PinchDuke,APT29
+Ping,"APT41,Deep Panda,FIN8,GALLIUM,Gamaredon Group,HEXANE,Ke3chang,Lotus Blossom,Magic Hound,Naikon,ToddyCat,Volt Typhoon,Wizard Spider,menuPass"
+PingPull,GALLIUM
+PipeMon,Winnti Group
+Pisloader,APT18
+Playcrypt,Play
+PlugX,"APT3,APT41,Axiom,Cinnamon Tempest,Daggerfly,DragonOK,GALLIUM,Higaisa,LuminousMoth,Mustang Panda,TA459,Threat Group-3390,Velvet Ant,Winnti Group,menuPass"
+PoisonIvy,"APT1,APT5,Axiom,DragonOK,Elderwood,GALLIUM,IndigoZebra,Moafee,Molerats,Mustang Panda,PittyTiger,Tropic Trooper,admin@338,menuPass"
+PolyglotDuke,APT29
+PoshC2,"APT33,HEXANE,Sandworm Team"
+PowGoop,MuddyWater
+PowerDuke,APT29
+PowerExchange,OilRig
+PowerLess,Magic Hound
+PowerPunch,Gamaredon Group
+PowerShower,Inception
+PowerSploit,"APT33,APT41,Earth Lusca,FIN7,Leviathan,MuddyWater,Patchwork,TA505,menuPass"
+PowerStallion,Turla
+Prestige,Sandworm Team
+Proxysvc,Lazarus Group
+PsExec,"APT1,APT29,APT39,Akira,BlackByte,BlackTech,Carbanak,Chimera,Cleaver,Cobalt Group,DarkVishnya,Dragonfly,Ember Bear,FIN5,FIN6,FIN8,Fox Kitten,GALLIUM,HAFNIUM,INC Ransom,Indrik Spider,Kimsuky,Leafminer,Magic Hound,Medusa Group,Moses Staff,Naikon,OilRig,Play,Sandworm Team,Storm-1811,TEMP.Veles,Threat Group-1314,Thrip,Turla,Volt Typhoon,Wizard Spider,menuPass"
+Psylo,Scarlet Mimic
+Pteranodon,Gamaredon Group
+Pupy,"APT33,Magic Hound"
+PyDCrypt,Moses Staff
+QUADAGENT,OilRig
+QUIETEXIT,APT29
+QakBot,"Storm-1811,TA551,TA577"
+Qilin,"Moonstone Sleet,Water Galura"
+QuasarRAT,"BackdoorDiplomacy,Gorgon Group,Kimsuky,LazyScripter,Patchwork,menuPass"
+Quick Assist,Storm-1811
+QuietSieve,Gamaredon Group
+RAPIDPULSE,APT5
+RARSTONE,Naikon
+RATANKBA,Lazarus Group
+RCSession,"Mustang Panda,Threat Group-3390"
+RDAT,OilRig
+RDFSNIFFER,FIN7
+REPTILE,UNC3886
+REvil,"FIN7,GOLD SOUTHFIELD"
+RGDoor,OilRig
+RIFLESPINE,UNC3886
+RIPTIDE,APT12
+ROADTools,APT29
+ROCKBOOT,APT41
+ROKRAT,APT37
+RTM,RTM
+Raccoon Stealer,Scattered Spider
+Ragnar Locker,FIN8
+Raindrop,APT29
+RainyDay,Naikon
+RawDisk,Lazarus Group
+RawPOS,FIN5
+Rclone,"Akira,Cinnamon Tempest,Ember Bear,INC Ransom,Medusa Group,Scattered Spider,Storm-0501"
+RedLeaves,menuPass
+Reg,"Daggerfly,Dragonfly,GALLIUM,Gamaredon Group,OilRig,Rancor,Turla,Volt Typhoon"
+RegDuke,APT29
+Remcos,"Gamaredon Group,Gorgon Group,LazyScripter"
+Remexi,APT39
+RemoteCMD,APT3
+RemoteUtilities,MuddyWater
+Remsec,Strider
+Responder,"APT28,Ember Bear,Lazarus Group"
+Revenge RAT,"TA2541,The White Company"
+Rifdoor,Andariel
+RogueRobin,DarkHydrus
+RotaJakiro,APT32
+Rubeus,Wizard Spider
+Ruler,APT33
+Ryuk,"FIN6,Wizard Spider"
+SDBbot,TA505
+SDelete,"APT29,Cobalt Group,FIN5,Sandworm Team,Silence"
+SEASHARPEE,OilRig
+SHARPSTATS,MuddyWater
+SHIPSHAPE,APT30
+SHOTPUT,APT3
+SHUTTERSPEED,APT37
+SLIGHTPULSE,APT5
+SLOWDRIFT,APT37
+SLOWPULSE,APT5
+SNUGRIDE,menuPass
+SOUNDBITE,APT32
+SPACESHIP,APT30
+SQLRat,FIN7
+STARWHALE,MuddyWater
+STATICPLUGIN,Mustang Panda
+SUNBURST,APT29
+SUNSPOT,APT29
+Sagerunex,Lotus Blossom
+Saint Bot,"Ember Bear,Saint Bear"
+Sakula,Deep Panda
+SampleCheck5000,OilRig
+Samurai,ToddyCat
+Sardonic,FIN8
+SeaDuke,APT29
+Seasalt,APT1
+ServHelper,TA505
+ShadowPad,"APT41,Aquatic Panda,BRONZE BUTLER,Earth Lusca,Mustang Panda,RedEcho,Tonto Team,Tropic Trooper"
+Shark,HEXANE
+SharpDisco,MoustachedBouncer
+SharpStage,Molerats
+ShimRat,Mofang
+ShimRatReporter,Mofang
+Sibot,APT29
+SideTwist,OilRig
+Skeleton Key,APT5
+Sliver,"APT29,Cinnamon Tempest,TA551"
+Small Sieve,MuddyWater
+SnappyTCP,Sea Turtle
+Snip3,TA2541
+SocGholish,Mustard Tempest
+SodaMaster,menuPass
+Solar,OilRig
+SoreFang,APT29
+Spark,Molerats
+Spica,Star Blizzard
+SpicyOmelette,Cobalt Group
+SplatCloak,Mustang Panda
+SplatDropper,Mustang Panda
+SslMM,Naikon
+StarProxy,Mustang Panda
+Starloader,Sowbug
+StoneDrill,APT33
+StreamEx,Deep Panda
+StrifeWater,Moses Staff
+StrongPity,PROMETHIUM
+Sys10,Naikon
+SysUpdate,Threat Group-3390
+Systeminfo,"APT29,Ke3chang,Magic Hound,Naikon,OilRig,Orangeworm,Threat Group-3390,Turla,Volt Typhoon,admin@338"
+TAINTEDSCRIBE,Lazarus Group
+TAMECAT,APT42
+TDTESS,CopyKittens
+TEARDROP,APT29
+TEXTMATE,FIN7
+THINCRUST,UNC3886
+TINYTYPHON,Patchwork
+TONESHELL,Mustang Panda
+TRANSLATEXT,Kimsuky
+TSCookie,BlackTech
+TURNEDUP,APT33
+TYPEFRAME,Lazarus Group
+Tarrask,HAFNIUM
+Tasklist,"APT1,APT29,APT5,Deep Panda,Earth Lusca,Ke3chang,Naikon,OilRig,Storm-0501,Threat Group-3390,Turla,Volt Typhoon"
+ThreatNeedle,Lazarus Group
+TinyTurla,Turla
+TinyZBot,Cleaver
+Tor,"APT28,APT29,INC Ransom,Leviathan,Scattered Spider,Water Galura"
+TrailBlazer,APT29
+TrickBot,"TA505,Wizard Spider"
+Trojan.Karagany,Dragonfly
+Troll Stealer,Kimsuky
+Truvasys,PROMETHIUM
+Turian,BackdoorDiplomacy
+UPPERCUT,menuPass
+USBStealer,APT28
+USBferry,Tropic Trooper
+Unknown Logger,Patchwork
+Uroburos,Turla
+Ursnif,TA551
+VBShower,Inception
+VIRTUALPIE,UNC3886
+VIRTUALPITA,UNC3886
+VPNFilter,Sandworm Team
+Valak,TA551
+VaporRage,APT29
+Vasport,Elderwood
+VersaMem,Volt Typhoon
+Volgmer,Lazarus Group
+WEBC2,APT1
+WINDSHIELD,APT32
+WINERACK,APT37
+WannaCry,Lazarus Group
+WarzoneRAT,"Confucius,Scattered Spider,TA2541"
+WastedLocker,Indrik Spider
+Waterbear,BlackTech
+WellMail,APT29
+WellMess,APT29
+Wevtutil,"APT28,Aquatic Panda,Mustang Panda,Play,Volt Typhoon"
+WhisperGate,Ember Bear
+Wiarp,Elderwood
+WinMM,Naikon
+WindTail,Windshift
+Windows Credential Editor,"APT39,BRONZE BUTLER,FIN5,FIN6,GALLIUM,Leviathan,Threat Group-3390"
+Winexe,"APT28,DarkVishnya,Silence"
+Wingbird,NEODYMIUM
+Winnti for Linux,"APT41,Aquatic Panda,Earth Lusca"
+Winnti for Windows,"Aquatic Panda,Winnti Group"
+XAgentOSX,APT28
+XORIndex Loader,Contagious Interview
+XTunnel,APT28
+YAHOYAH,Tropic Trooper
+Zebrocy,APT28
+ZeroCleare,OilRig
+ZeroT,TA459
+Zox,Axiom
+ZxShell,"APT41,Axiom,Threat Group-3390"
+ZxxZ,BITTER
+adbupd,PLATINUM
+build_downer,BRONZE BUTLER
+certutil,"APT28,APT41,Earth Lusca,FIN13,Higaisa,Lotus Blossom,Medusa Group,OilRig,Rancor,Threat Group-3390,Turla,Volt Typhoon,menuPass"
+cipher.exe,APT28
+down_new,BRONZE BUTLER
+dsquery,"APT41,FIN8"
+esentutl,"Chimera,INC Ransom,menuPass"
+ftp,"APT33,APT39,APT41,Naikon,OilRig"
+gh0st RAT,"APT18,APT41,APT5,Andariel,Axiom,Higaisa,Kimsuky,Leviathan,PittyTiger,TA459,Threat Group-3390"
+gsecdump,"APT1,BRONZE BUTLER,PittyTiger,Threat Group-3390,Tonto Team"
+hcdLoader,APT18
+httpclient,Putter Panda
+ipconfig,"APT1,APT29,APT32,APT41,GALLIUM,HEXANE,Ke3chang,Magic Hound,OilRig,Orangeworm,Threat Group-3390,Volt Typhoon,admin@338"
+jRAT,TA2541
+meek,APT29
+metaMain,Metador
+nbtstat,Turla
+netsh,"APT32,Carbanak,Dragonfly,Lazarus Group,Magic Hound,Naikon,Volt Typhoon"
+netstat,"APT41,APT5,HEXANE,Ke3chang,OilRig,Orangeworm,Threat Group-3390,ToddyCat,Turla,Volt Typhoon,admin@338"
+ngrok,"Ember Bear,Fox Kitten,LazyScripter,OilRig,Scattered Spider"
+njRAT,"APT41,Aquatic Panda,Gorgon Group,Group5,LazyScripter,TA2541,Transparent Tribe"
+pngdowner,Putter Panda
+pwdump,"APT1,APT39,APT41,FIN5,Threat Group-3390,menuPass"
+reGeorg,"APT28,APT29,Ember Bear"
+route,"Lazarus Group,Orangeworm"
+schtasks,"APT3,BRONZE BUTLER,Kimsuky"
+spwebmember,Ke3chang
+sqlmap,"APT41,Ajax Security Team"
+xCaon,IndigoZebra
+xCmd,APT1
